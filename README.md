@@ -27,3 +27,5 @@
 * Binary Search
 * Interpolation Search
 * Hashing
+
+You can look for more information in Wiki files in this repository.
