@@ -4,9 +4,6 @@
 #include <iostream>
 
 
-
-
-
 // class interface
 class Data
 {
